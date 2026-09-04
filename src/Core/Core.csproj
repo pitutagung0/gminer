@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Gminer.Core</RootNamespace>
+    <AssemblyName>Gminer.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
